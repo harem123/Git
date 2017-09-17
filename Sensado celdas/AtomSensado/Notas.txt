@@ -1,0 +1,2 @@
+# revisar tiempo de comunicacion entre sensores, mando central, y luces 
+# 
